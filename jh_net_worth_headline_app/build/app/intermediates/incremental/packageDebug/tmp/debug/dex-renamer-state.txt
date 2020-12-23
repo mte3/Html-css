@@ -1,0 +1,4 @@
+#Wed Oct 28 16:13:37 CST 2020
+base.0=C\:\\Users\\mte\\AndroidStudioProjects\\jh_net_worth_headline_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
